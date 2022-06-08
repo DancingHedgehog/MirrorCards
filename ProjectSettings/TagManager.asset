@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3226671987
+    locked: 0
+  - name: Card
+    uniqueID: 138164049
+    locked: 0
+  - name: Card UI
+    uniqueID: 4033516601
+    locked: 0
