@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8835615905154114826}
   - component: {fileID: 5035107813061240022}
   m_Layer: 0
-  m_Name: MovementTest
+  m_Name: DebugPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
